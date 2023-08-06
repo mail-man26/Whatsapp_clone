@@ -1,0 +1,155 @@
+[
+    {
+      "name": "John",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202304/john-sixteen_nine.jpg?VersionId=0JFRTdmwg.dceUVk6nMzab2kUDWWiIdH&size=690:388",
+      "lastMessage": "Hey there!",
+      "lastMessageTime": "2023-08-06 10:30 AM",
+      "messages": [
+        {
+          "text": "Hey there!",
+          "isMe": false
+        },
+        {
+          "text": "Hi John!",
+          "isMe": true
+        },
+        {
+          "text": "How's your day?",
+          "isMe": false
+        }
+      ]
+    },
+    {
+      "name": "Emily",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/emily-ratajkowski-attends-the-2020-vanity-fair-oscar-party-news-photo-1686248060.jpg",
+      "lastMessage": "How's it going?",
+      "lastMessageTime": "2023-08-06 11:45 AM",
+      "messages": [
+        {
+          "text": "How's it going?",
+          "isMe": false
+        },
+        {
+          "text": "Pretty good, thanks!",
+          "isMe": true
+        },
+        {
+          "text": "Any plans for the weekend?",
+          "isMe": false
+        },
+        {
+          "text": "Not yet, thinking of going hiking.",
+          "isMe": true
+        }
+      ]
+    },
+    {
+      "name": "Alex",
+      "imageUrl": "https://5.imimg.com/data5/YP/AE/CL/SELLER-76545867/amazon-echo-dot-3rd-gen-alexa.jpg",
+      "lastMessage": "See you later!",
+      "lastMessageTime": "2023-08-06 3:20 PM",
+      "messages": [
+        {
+          "text": "See you later!",
+          "isMe": false
+        },
+        {
+          "text": "Goodbye!",
+          "isMe": true
+        }
+      ]
+    },
+    {
+      "name": "Sophia",
+      "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/elXu6y_rw1jLdbNbpEXmBX9ZA44=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/a9/da/a9dabc78-549e-4c46-8996-2539578768c3/1280px-sophia_robot.jpg",
+      "lastMessage": "Movie night?",
+      "lastMessageTime": "2023-08-06 7:15 PM",
+      "messages": [
+        {
+          "text": "Movie night?",
+          "isMe": false
+        },
+        {
+          "text": "Sounds like a plan! What should we watch?",
+          "isMe": true
+        },
+        {
+          "text": "How about an action movie?",
+          "isMe": false
+        },
+        {
+          "text": "Sure, I'm in!",
+          "isMe": true
+        }
+      ]
+    },
+    {
+        "name": "Liam",
+        "imageUrl": "https://i.guim.co.uk/img/media/ec37ec41e57835415583f2b1d4fe402348976844/134_0_3972_2384/master/3972.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=ebdd1ffed00afd5015e8af7c477cd68b",
+        "lastMessage": "Guess what happened today!",
+        "lastMessageTime": "2023-08-07 9:50 AM",
+        "messages": [
+          {
+            "text": "Guess what happened today!",
+            "isMe": false
+          },
+          {
+            "text": "I'm intrigued! Tell me.",
+            "isMe": true
+          },
+          {
+            "text": "I won a contest and got a free trip!",
+            "isMe": false
+          },
+          {
+            "text": "No way! That's amazing!",
+            "isMe": true
+          }
+        ]
+      },
+      {
+        "name": "Ava",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVaOTPsLk6a9KaxGDIR21Hvaan69ZhYgneg&usqp=CAU",
+        "lastMessage": "Happy birthday!!! 🎉",
+        "lastMessageTime": "2023-08-07 2:30 PM",
+        "messages": [
+          {
+            "text": "Happy birthday!!! 🎉",
+            "isMe": false
+          },
+          {
+            "text": "Thank you so much! 🥳",
+            "isMe": true
+          },
+          {
+            "text": "Any special plans for today?",
+            "isMe": false
+          },
+          {
+            "text": "Just a small gathering with friends.",
+            "isMe": true
+          }
+        ]
+      },
+      {
+        "name": "Oliver",
+        "imageUrl": "https://i.guim.co.uk/img/media/d20784ec22056d334979be7122a19b86c3765b6a/0_37_2478_1487/master/2478.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2dd69226bc90d5a8ee385977c30733c",
+        "lastMessage": "Did you finish reading that book?",
+        "lastMessageTime": "2023-08-07 5:15 PM",
+        "messages": [
+          {
+            "text": "Did you finish reading that book?",
+            "isMe": false
+          },
+          {
+            "text": "Not yet, but I'm almost there!",
+            "isMe": true
+          },
+          {
+            "text": "It's a really captivating story.",
+            "isMe": true
+          }
+        ]
+      }
+  ]
+  
